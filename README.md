@@ -1,5 +1,5 @@
 # DEFO-8
-DEFO-8 is a fantasy console made with Defold which allows you to make, share, and play virtual game carts.
+DEFO-8 is a fantasy console made with Defold which allows you to make, share, and play virtual game carts. Includes EZ ability to bundle and distribute for free or to sell your game on all platforms which Defold supports.
 
 Work in progress, for something which already works look at PICO-8, Pixel Vision 8, LIKO-12, or tako80
 
